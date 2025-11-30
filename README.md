@@ -57,7 +57,7 @@ Set up the Nebula Driver for VLP32C Velodyne LiDAR.
 2. **Run Vehicle Sensor Data Launcher in Docker Container.**
    
    ```bash
-   source $HOME/R2Ware/install/setup.bash
+   source $HOME/r2ware/install/setup.bash
    ros2 launch r2ware_launch r2ware_launch.py
    ```
 

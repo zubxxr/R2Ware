@@ -58,6 +58,7 @@ Set up the Nebula Driver for VLP32C Velodyne LiDAR.
    
    ```bash
    source $HOME/r2ware/install/setup.bash
+   source ~/yahboomcar_ros2_ws/yahboomcar_ws/install/setup.bash
    ros2 launch r2ware_launch r2ware_launch.py
    ```
 
